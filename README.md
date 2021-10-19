@@ -1,6 +1,6 @@
-# Friday Night Funkin Vs Square
+# Friday Night Funkin Vs. Square
 
-The repository for builds of the mod "Vs Square"
+The repository for builds of the mod "Vs. Square"
 
 ## Credits 
 
