@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep boop ba ba bap"
+		},
+		{
+			"speed": 0.15,
+			"portrait": "Me",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where the fuck  am i"
+		},
+		{
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "shut up and rap me "
+		},
+		{
+			"speed": 0.1,
+			"portrait": "Me",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okay"
+		}
+	]
+}

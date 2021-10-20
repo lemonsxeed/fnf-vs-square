@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Def.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="def0000" x="0" y="0" width="408" height="376" frameX="-17" frameY="0" frameWidth="438" frameHeight="376"/>
+	<SubTexture name="def0001" x="408" y="0" width="415" height="362" frameX="-23" frameY="-14" frameWidth="438" frameHeight="376"/>
+	<SubTexture name="def0002" x="0" y="376" width="425" height="376" frameX="0" frameY="0" frameWidth="438" frameHeight="376"/>
+	<SubTexture name="def0003" x="425" y="376" width="418" height="369" frameX="-9" frameY="-7" frameWidth="438" frameHeight="376"/>
+</TextureAtlas>

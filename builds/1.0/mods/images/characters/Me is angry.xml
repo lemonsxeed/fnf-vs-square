@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Me is angry.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mad down0000" x="0" y="0" width="442" height="285" frameX="-2" frameY="0" frameWidth="445" frameHeight="285"/>
+	<SubTexture name="mad down0001" x="0" y="0" width="442" height="285" frameX="-2" frameY="0" frameWidth="445" frameHeight="285"/>
+	<SubTexture name="mad down0002" x="442" y="0" width="445" height="271" frameX="0" frameY="-14" frameWidth="445" frameHeight="285"/>
+	<SubTexture name="mad down0003" x="442" y="0" width="445" height="271" frameX="0" frameY="-14" frameWidth="445" frameHeight="285"/>
+	<SubTexture name="mad down0004" x="887" y="0" width="441" height="257" frameX="-4" frameY="-28" frameWidth="445" frameHeight="285"/>
+	<SubTexture name="mad idle0000" x="1328" y="0" width="303" height="285" frameX="-21" frameY="-16" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0001" x="1328" y="0" width="303" height="285" frameX="-21" frameY="-16" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0002" x="1631" y="0" width="316" height="293" frameX="-8" frameY="-8" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0003" x="1631" y="0" width="316" height="293" frameX="-8" frameY="-8" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0004" x="1947" y="0" width="323" height="301" frameX="0" frameY="0" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0005" x="1947" y="0" width="323" height="301" frameX="0" frameY="0" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0006" x="2270" y="0" width="308" height="289" frameX="-21" frameY="-12" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0007" x="2270" y="0" width="308" height="289" frameX="-21" frameY="-12" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0008" x="2578" y="0" width="317" height="281" frameX="-17" frameY="-20" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0009" x="2578" y="0" width="317" height="281" frameX="-17" frameY="-20" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad idle0010" x="2895" y="0" width="318" height="284" frameX="-16" frameY="-17" frameWidth="334" frameHeight="301"/>
+	<SubTexture name="mad left0000" x="3213" y="0" width="314" height="291" frameX="-25" frameY="-5" frameWidth="339" frameHeight="296"/>
+	<SubTexture name="mad left0001" x="3213" y="0" width="314" height="291" frameX="-25" frameY="-5" frameWidth="339" frameHeight="296"/>
+	<SubTexture name="mad left0002" x="3527" y="0" width="313" height="294" frameX="-3" frameY="-2" frameWidth="339" frameHeight="296"/>
+	<SubTexture name="mad left0003" x="3527" y="0" width="313" height="294" frameX="-3" frameY="-2" frameWidth="339" frameHeight="296"/>
+	<SubTexture name="mad left0004" x="0" y="301" width="313" height="296" frameX="0" frameY="0" frameWidth="339" frameHeight="296"/>
+	<SubTexture name="mad right0000" x="313" y="301" width="451" height="288" frameX="0" frameY="-1" frameWidth="474" frameHeight="289"/>
+	<SubTexture name="mad right0001" x="313" y="301" width="451" height="288" frameX="0" frameY="-1" frameWidth="474" frameHeight="289"/>
+	<SubTexture name="mad right0002" x="764" y="301" width="449" height="289" frameX="-13" frameY="0" frameWidth="474" frameHeight="289"/>
+	<SubTexture name="mad right0003" x="764" y="301" width="449" height="289" frameX="-13" frameY="0" frameWidth="474" frameHeight="289"/>
+	<SubTexture name="mad right0004" x="1213" y="301" width="453" height="288" frameX="-21" frameY="-1" frameWidth="474" frameHeight="289"/>
+	<SubTexture name="mad up0000" x="1666" y="301" width="435" height="288" frameX="0" frameY="-14" frameWidth="442" frameHeight="302"/>
+	<SubTexture name="mad up0001" x="1666" y="301" width="435" height="288" frameX="0" frameY="-14" frameWidth="442" frameHeight="302"/>
+	<SubTexture name="mad up0002" x="2101" y="301" width="435" height="296" frameX="-3" frameY="-6" frameWidth="442" frameHeight="302"/>
+	<SubTexture name="mad up0003" x="2101" y="301" width="435" height="296" frameX="-3" frameY="-6" frameWidth="442" frameHeight="302"/>
+	<SubTexture name="mad up0004" x="2536" y="301" width="435" height="302" frameX="-7" frameY="0" frameWidth="442" frameHeight="302"/>
+</TextureAtlas>

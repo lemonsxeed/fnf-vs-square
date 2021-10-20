@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		140,
+		110
+	],
+	"scale": 1.05,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				-10
+			],
+			"loop_name": "ME dialouge0001",
+			"idle_name": "ME dialouge0000"
+		},
+		{
+			"loop_name": "ME dialouge0001",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "ME dialouge0000",
+			"anim": "",
+			"loop_offsets": [
+				0,
+				0
+			]
+		}
+	],
+	"image": "Me dialogue"
+}

@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Square",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekCharacters": [
+		"me",
+		"bf",
+		"gf"
+	],
+	"storyName": "Bad week lol",
+	"weekName": "hi",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
