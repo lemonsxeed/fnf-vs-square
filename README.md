@@ -9,4 +9,4 @@ The repository for builds of the mod "Vs. Square"
 - [Kris](https://www.youtube.com/channel/UC_FdqDeT9EP4l9Y1XYInU3g) - Code Assist & Square Composer
 - 
 ## Creator Note
-FUCK I FORGOT TO RELEASE THE CODE IN GITHUB
+- The repository is a placeholder, for releases or downloads of the mod you go to https://github.com/lemonsxeed/fnf-vs-square/releases
